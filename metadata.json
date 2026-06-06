@@ -1,0 +1,6 @@
+{
+  "name": "MarketMate",
+  "description": "A refined, responsive multi-view buyer and seller marketplace hub, featuring modern dashboard metrics, custom profile onboarding, live listing catalog, secure transactional layouts, and seamless buyer-seller view switching.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
